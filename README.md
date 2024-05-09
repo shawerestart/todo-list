@@ -38,6 +38,6 @@ yarn build && yarn start
 
 ## preview
 
-![](https://github.com/shawerestart/todo-list/blob/main/public/screenshot/sceenshot_20240509185156.png?token=GHSAT0AAAAAACSCD4CPHG6UVLGYCKKXXRXMZR4VUEQ)
-![](https://github.com/shawerestart/todo-list/blob/main/public/screenshot/screenshot_20240509185232.png?token=GHSAT0AAAAAACSCD4CPHG6UVLGYCKKXXRXMZR4VUEQ)
-![](https://github.com/shawerestart/todo-list/blob/main/public/screenshot/screenshot_20240509185346.png?token=GHSAT0AAAAAACSCD4CPHG6UVLGYCKKXXRXMZR4VUEQ)
+![](public/screenshots/sceenshot_20240509185156.png)
+![](public/screenshots/screenshot_20240509185232.png)
+![](public/screenshots/screenshot_20240509185346.png)
