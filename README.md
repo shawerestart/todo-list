@@ -36,8 +36,13 @@ All APIs are simulated in the background with JSON, and can be dynamically incre
 yarn build && yarn start
 ```
 
-## preview
-
+## Preview
+### Todo page
 ![](public/screenshots/sceenshot_20240509185156.png)
+
+### Schedule page
+
 ![](public/screenshots/screenshot_20240509185232.png)
+
+### Todo page edit and emoji
 ![](public/screenshots/screenshot_20240509185346.png)
