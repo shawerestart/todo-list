@@ -30,8 +30,14 @@ yarn test
 
 All APIs are simulated in the background with JSON, and can be dynamically increased or decreased. For details, please refer to /src/pages/api/\*
 
-
 ## Deploy
+
 ```
 yarn build && yarn start
 ```
+
+## preview
+
+![](https://github.com/shawerestart/todo-list/tree/main/public/screenshot/sceenshot_20240509185156.png)
+![](https://github.com/shawerestart/todo-list/tree/main/public/screenshot/screenshot_20240509185232.png)
+![](https://github.com/shawerestart/todo-list/tree/main/public/screenshot/screenshot_20240509185346.png)
